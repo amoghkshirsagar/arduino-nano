@@ -1,0 +1,24 @@
+# PlatformIO
+.pio/
+.vscode/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# IDE temporary files
+*.swp
+*.swo
+*~
+
+# Compiled objects
+*.o
+*.a
+*.so
