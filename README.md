@@ -136,3 +136,5 @@ dmesg | tail -20
 - Disconnect and reconnect the USB cable
 - Try a different USB port
 - Use `./build-install.sh` option 7 for automatic retry with port re-selection
+
+222
